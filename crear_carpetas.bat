@@ -1,0 +1,1 @@
+FOR /F %%1 IN (./lista.txt) DO mkdir %%1
